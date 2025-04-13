@@ -11,13 +11,8 @@ Este projeto tem como objetivo transformar dados brutos de vendas dos produtos *
 Os dados utilizados no dashboard contêm as seguintes informações:
 
 - Nome do produto (*EA Play Season Pass* ou *Minecraft Season Pass*)
-- Data da venda
-- Quantidade vendida
-- Receita total
-- Região ou país da venda
-- Canal de venda (online, física, promoção, etc.)
-- Plataforma (quando aplicável)
-- Código/ID da transação
+- Total de assinaturas do Minecraf season pass e EA Play season pass
+- Total de assinaturas do Xbox game pass
 
 > Os dados estão organizados em planilhas no formato `.xlsx`, separando, quando necessário, as informações por produto ou consolidando tudo em uma única tabela dinâmica.
 
